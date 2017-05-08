@@ -2,37 +2,395 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d989c05-bf70-4f7b-b1d1-2b3f3238d4d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/404-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/masonary/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coming-soon-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coming-soon1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coming-soon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coming-soon3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coming-soon4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home/slider/birds1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home/slider/birds2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home/slider/hill.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home/slider/house.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home/slider/sun.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/404.png" afterPath="$PROJECT_DIR$/images/404.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/aboutus/left.png" afterPath="$PROJECT_DIR$/images/aboutus/left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/aboutus/right.png" afterPath="$PROJECT_DIR$/images/aboutus/right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-arrow.png" afterPath="$PROJECT_DIR$/images/blog/blog-arrow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/left.png" afterPath="$PROJECT_DIR$/images/blog/left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/right.png" afterPath="$PROJECT_DIR$/images/blog/right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home/clients.png" afterPath="$PROJECT_DIR$/images/home/clients.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home/footer.png" afterPath="$PROJECT_DIR$/images/home/footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home/tour-bg.png" afterPath="$PROJECT_DIR$/images/home/tour-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home/tour-icon2.png" afterPath="$PROJECT_DIR$/images/home/tour-icon2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home/under.png" afterPath="$PROJECT_DIR$/images/home/under.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coming-soon.html" afterPath="$PROJECT_DIR$/coming-soon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/css/documenter_style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/css/img/info.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/css/img/warning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/js/google-code-prettify/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/js/google-code-prettify/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/js/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/js/jquery.scrollTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/assets/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/aboutus2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/audio/juicy.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/blogdetails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/blogfour.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/blogone.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/blogthree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/blogtwo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/coming-soon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/contact2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/css/prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/404-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/aboutus/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/blog-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/masonary/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blog/timeline/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blogdetails/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blogdetails/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blogdetails/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/blogdetails/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/coming-soon-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/coming-soon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/coming-soon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/coming-soon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/coming-soon4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/contact-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/activeicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/client1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/client2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/client3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/client4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/client5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/client6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/clients.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/cycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/profile1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/profile2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/slider/birds1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/slider/birds2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/slider/hill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/slider/house.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/slider/sun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/tour-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/tour-icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/tour-icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/home/under.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/ico/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/icon-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/lightbox/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/lightbox/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/lightbox/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/lightbox/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio-details/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/popular1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/popular2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/popular3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/popular4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/popular5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/project1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/project2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/project3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/portfolio/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/services/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/services/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/services/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/images/services/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/audio.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/audiojs.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/coundown-timer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/holder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/jquery.countTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/jquery.isotope.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/lightbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/masonry.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/player-graphics.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/w.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/js/wow.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/portfolio-details.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/portfoliofour.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/portfolioone.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/portfoliothree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/portfoliotwo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/sendemail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/service.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/multicolor/shortcodes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/aboutus2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/audio/juicy.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/blogdetails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/blogfour.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/blogone.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/blogthree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/blogtwo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/coming-soon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/contact2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/css/prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/aboutus/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/blog-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/masonary/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blog/timeline/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blogdetails/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blogdetails/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blogdetails/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/blogdetails/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/contact-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/activeicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/client1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/client2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/client3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/client4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/client5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/client6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/clients.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/cycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/profile1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/profile2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/circle1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/circle2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/cloud1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/cloud2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/cloud3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/cycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/house.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/slider/slide1/sun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/tour-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/tour-icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/tour-icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/home/under.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/ico/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/icon-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/lightbox/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/lightbox/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/lightbox/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/lightbox/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio-details/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/popular1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/popular2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/popular3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/popular4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/popular5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/project1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/project2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/project3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/portfolio/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/services/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/services/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/services/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/images/services/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/audio.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/audiojs.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/coundown-timer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/holder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/jquery.countTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/jquery.isotope.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/lightbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/masonry.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/player-graphics.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/w.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/js/wow.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/portfolio-details.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/portfoliofour.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/portfolioone.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/portfoliothree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/portfoliotwo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/sendemail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/service.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/template/singlecolor/shortcodes.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -141,6 +499,68 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -151,18 +571,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494273900199</updated>
-      <workItem from="1494273903938" duration="1935000" />
+      <workItem from="1494273903938" duration="2133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1935000" />
+    <option name="totallyTimeSpent" value="2133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="794" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
